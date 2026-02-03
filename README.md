@@ -2,6 +2,10 @@
 
 Track your keyboard usage and generate beautiful heatmaps showing which keys you press most often.
 
+<img width="5306" height="2346" alt="example_keyboard_heatmap" src="https://github.com/user-attachments/assets/9235b50c-8a09-45b4-828e-b58c2fb98c6f" />
+<img width="4567" height="1764" alt="keyboard_stats" src="https://github.com/user-attachments/assets/22713ed8-54f4-4978-9f77-ee9fa0f30626" />
+
+
 ## Features
 
 - 🎹 Log all keyboard activity in the background
